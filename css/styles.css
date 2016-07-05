@@ -113,9 +113,10 @@ header {
     .header__nav__menu--link:hover {
       color: #f4b60d; }
   .header__nav__search {
-    width: 240px;
+    width: 225px;
     height: 40px;
     margin: 10px 0 0 310px;
+    padding-left: 15px;
     background-color: #35383c;
     border: 1px solid #181a1d;
     background-image: url(../img/search.png);
@@ -135,7 +136,7 @@ header {
   overflow: hidden; }
 
 .main-content__articles {
-  width: 1500px;
+  width: 1200px;
   height: 340px; }
 
 .content__article {
